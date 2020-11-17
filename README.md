@@ -18,7 +18,7 @@
 ### Languages and Tools that I'm using now or used previously:
 
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="Xcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" />
+<img align="left" alt="Xcode" width="26px" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" />
 <img align="left" alt="Go" width="26px" src="https://srinathh.github.io/assets/images/generic/Go-Logo_Blue.png" />
 <img align="left" alt="Java" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
