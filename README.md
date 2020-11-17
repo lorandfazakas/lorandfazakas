@@ -2,10 +2,10 @@
 
 ## Software Engineer, tech enthusiast and avid learner!
 
-- 🎓 I’m currently learning SwiftUI by watching Stanford's [CS193P course](https://cs193p.sites.stanford.edu)!
-- 🔑 Interested in Blockchain and Cryptocurrencies
+- 🎓 I’m currently learning Go by watching Jon Calhoun's course. Finished Stanford's SwiftUI [CS193P course](https://cs193p.sites.stanford.edu)!
+- 🔑 Interested in Go, Swift, Blockchain and Cryptocurrencies
 - 🥅 2020 Goals: Contribute more to Open Source projects, write blog posts more often, improve my design skills and publish my first iOS app.
-- ⚽ Hobbies: Soccer, swimming and poker.
+- ⚽ Hobbies: Soccer, swimming and poker
 
 ### Connect with me:
 
