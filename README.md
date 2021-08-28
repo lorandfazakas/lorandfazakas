@@ -2,10 +2,9 @@
 
 ## Software Engineer, tech enthusiast and avid learner!
 
-- 🎓 I’m currently learning Go by watching Jon Calhoun's course. Finished Stanford's SwiftUI [CS193P course](https://cs193p.sites.stanford.edu)!
-- 🔑 Interested in Go, Swift, Blockchain and Cryptocurrencies
-- 🥅 2020 Goals: Contribute more to Open Source projects, write blog posts more often, improve my design skills and publish my first iOS app.
-- ⚽ Hobbies: Soccer, swimming and poker
+- 🎓 I’m currently learning iOS application development (Swift + SwiftUI)
+- 🔑 Interested in Swift, iOS Application development, UI/UX
+- ⚽ Hobbies: Soccer, poker, gokart
 
 ### Connect with me:
 
@@ -29,7 +28,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
