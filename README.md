@@ -2,8 +2,8 @@
 
 ## Software Engineer, tech enthusiast and avid learner!
 
-- :sunny: Go by day
-- :moon: Swift by night
+- <img align="left" alt="Go" width="26px" src="https://srinathh.github.io/assets/images/generic/Go-Logo_Blue.png" /> by :sunny:
+- <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" /> by :moon:
 - 🔑 Interested in Go, iOS Application development, UI/UX
 - ⚽ Hobbies: Soccer, poker, gokart
 
